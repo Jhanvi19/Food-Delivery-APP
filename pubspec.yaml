@@ -35,9 +35,17 @@ dependencies:
   persistent_bottom_nav_bar: ^4.0.2
   favorite_button: ^0.0.4
 
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.9.1"
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/menus/ic_food_express.png"
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
